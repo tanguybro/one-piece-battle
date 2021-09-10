@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="One Piece Battle" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Script file="lib_finder.script" />
+			<Target title="Debug">
+				<Option output="bin/Debug/One Piece" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="C:/Program Files (x86)/CodeBlocks/SDL-1.2.15/lib/SDL_ttf.lib" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/SDL-1.2.15/lib/SDL_image.lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/One Piece" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/SDL-1.2.15/lib/SDL_ttf.lib" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/SDL-1.2.15/lib/SDL_image.lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="$(#sdl.include)/SDL" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="$(#sdl.lib)" />
+		</Linker>
+		<Unit filename="AttaquesSpeciales.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AttaquesSpeciales.h" />
+		<Unit filename="ChoixFonds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ChoixFonds.h" />
+		<Unit filename="ChoixPersonnages.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ChoixPersonnages.h" />
+		<Unit filename="Combat2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Combat2.h" />
+		<Unit filename="Commandes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Commandes.h" />
+		<Unit filename="Constantes.h" />
+		<Unit filename="Evenements.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Evenements.h" />
+		<Unit filename="FonctionsCombat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FonctionsCombat.h" />
+		<Unit filename="FonctionsMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FonctionsMenu.h" />
+		<Unit filename="Main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Personnages.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Personnages.h" />
+		<Unit filename="StatsPersonnages.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

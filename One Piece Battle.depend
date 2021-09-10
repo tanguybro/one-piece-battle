@@ -1,0 +1,611 @@
+# depslib dependency file v1.0
+1497906825 source:c:\users\mylène\desktop\one piece battle\jeu.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"Jeu.h"
+	"Constantes.h"
+	"Personnages.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325796794 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325792434 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1497987527 c:\users\mylène\desktop\one piece battle\jeu.h
+
+1512937150 c:\users\mylène\desktop\one piece battle\constantes.h
+
+1511986958 c:\users\mylène\desktop\one piece battle\personnages.h
+
+1511469063 source:c:\users\mylène\desktop\one piece battle\main.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Combat2.h"
+	"Combattre.h"
+	"ChoixFonds.h"
+	"ChoixPersonnages.h"
+	"Commandes.h"
+	"Evenements.h"
+	"Constantes.h"
+	"FonctionsMenu.h"
+
+1512936699 source:c:\users\mylène\desktop\one piece battle\personnages.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"Constantes.h"
+	"Combat2.h"
+	"Personnages.h"
+	"StatsPersonnages.h"
+
+1512077389 source:c:\users\mylène\desktop\one piece battle\combat2.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"Combat2.h"
+	"Evenements.h"
+	"Constantes.h"
+	"Personnages.h"
+	"AttaquesSpeciales.h"
+	"FonctionsCombat.h"
+	"FonctionsMenu.h"
+
+1511472064 c:\users\mylène\desktop\one piece battle\combat2.h
+
+1501508865 source:c:\users\mylène\desktop\one piece battle\combat libre.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Combat libre.h"
+	"Evenements.h"
+	"ChoixPersonnages.h"
+
+1511026269 source:c:\users\mylène\desktop\one piece battle\evenements.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Evenements.h"
+	"Constantes.h"
+
+1497987928 c:\users\mylène\desktop\one piece battle\evenements.h
+
+1497991724 c:\users\mylène\desktop\one piece battle\combat libre.h
+
+1511470070 source:c:\users\mylène\desktop\one piece battle\choixfonds.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Constantes.h"
+	"Evenements.h"
+	"ChoixFonds.h"
+	"FonctionsMenu.h"
+
+1511384684 source:c:\users\mylène\desktop\one piece battle\choixpersonnages.c
+	<SDL.h>
+	<SDL_image.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Constantes.h"
+	"Evenements.h"
+	"ChoixPersonnages.h"
+	"FonctionsMenu.h"
+
+1510412896 c:\users\mylène\desktop\one piece battle\choixpersonnages.h
+
+1511468591 c:\users\mylène\desktop\one piece battle\choixfonds.h
+
+1511984769 source:c:\users\mylène\desktop\one piece battle\attaquesspeciales.c
+	<SDL.h>
+	<math.h>
+	"Constantes.h"
+	"Combat2.h"
+	"Personnages.h"
+	"AttaquesSpeciales.h"
+
+1510405463 c:\users\mylène\desktop\one piece battle\attaquesspeciales.h
+
+1500404494 source:c:\users\mylène\desktop\one piece battle\boutique.c
+	<SDL.h>
+	<SDL_image.h>
+	"Boutique.h"
+	"Evenements.h"
+
+1500403770 c:\users\mylène\desktop\one piece battle\boutique.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1510945483 source:c:\users\mylène\desktop\one piece battle\commandes.c
+	<SDL.h>
+	<SDL_image.h>
+	"Evenements.h"
+	"Constantes.h"
+	"FonctionsMenu.h"
+
+1509903660 c:\users\mylène\desktop\one piece battle\commandes.h
+
+1512936699 c:\users\mylène\desktop\one piece battle\statspersonnages.h
+
+1511122495 source:c:\users\mylène\desktop\one piece battle\combattre.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Combattre.h"
+	"Constantes.h"
+	"Evenements.h"
+	"FonctionsMenu.h"
+
+1509903686 c:\users\mylène\desktop\one piece battle\combattre.h
+
+1508505981 c:\users\mylène\desktop\one piece battle\menu.h
+
+1508505981 source:c:\users\mylène\desktop\one piece battle\menu.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Combat2.h"
+	"Combattre.h"
+	"Commandes.h"
+	"Evenements.h"
+	"Constantes.h"
+	"Menu.h"
+
+1512077389 c:\users\mylène\desktop\one piece battle\fonctionscombat.h
+	"Personnages.h"
+	"Combat2.h"
+
+1512418260 source:c:\users\mylène\desktop\one piece battle\fonctionscombat.c
+	<SDL.h>
+	<SDL_image.h>
+	"Constantes.h"
+	"FonctionsCombat.h"
+	"Combat2.h"
+	"Personnages.h"
+
+1511468875 c:\users\mylène\desktop\one piece battle\fonctionsmenu.h
+
+1512418520 source:c:\users\mylène\desktop\one piece battle\fonctionsmenu.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Constantes.h"
+	"FonctionsMenu.h"
+
+1528721743 source:c:\users\tanguy\desktop\one piece battle\attaquesspeciales.c
+	<SDL.h>
+	<math.h>
+	"Constantes.h"
+	"Combat2.h"
+	"Personnages.h"
+	"AttaquesSpeciales.h"
+
+1529090415 c:\users\tanguy\desktop\one piece battle\constantes.h
+
+1511475666 c:\users\tanguy\desktop\one piece battle\combat2.h
+
+1529089030 c:\users\tanguy\desktop\one piece battle\personnages.h
+
+1528893248 c:\users\tanguy\desktop\one piece battle\attaquesspeciales.h
+
+1523217642 source:c:\users\tanguy\desktop\one piece battle\choixfonds.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Constantes.h"
+	"Evenements.h"
+	"ChoixFonds.h"
+	"FonctionsMenu.h"
+
+1497995130 c:\users\tanguy\desktop\one piece battle\evenements.h
+
+1511472192 c:\users\tanguy\desktop\one piece battle\choixfonds.h
+
+1529069741 c:\users\tanguy\desktop\one piece battle\fonctionsmenu.h
+
+1529087148 source:c:\users\tanguy\desktop\one piece battle\choixpersonnages.c
+	<SDL.h>
+	<SDL_image.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Constantes.h"
+	"Evenements.h"
+	"ChoixPersonnages.h"
+	"FonctionsMenu.h"
+
+1510416498 c:\users\tanguy\desktop\one piece battle\choixpersonnages.h
+
+1529090738 source:c:\users\tanguy\desktop\one piece battle\combat2.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"Combat2.h"
+	"Evenements.h"
+	"Constantes.h"
+	"Personnages.h"
+	"AttaquesSpeciales.h"
+	"FonctionsCombat.h"
+	"FonctionsMenu.h"
+
+1529090996 c:\users\tanguy\desktop\one piece battle\fonctionscombat.h
+	"Personnages.h"
+	"Combat2.h"
+
+1511126096 source:c:\users\tanguy\desktop\one piece battle\combattre.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Combattre.h"
+	"Constantes.h"
+	"Evenements.h"
+	"FonctionsMenu.h"
+
+1509907288 c:\users\tanguy\desktop\one piece battle\combattre.h
+
+1510949084 source:c:\users\tanguy\desktop\one piece battle\commandes.c
+	<SDL.h>
+	<SDL_image.h>
+	"Evenements.h"
+	"Constantes.h"
+	"FonctionsMenu.h"
+
+1511029870 source:c:\users\tanguy\desktop\one piece battle\evenements.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Evenements.h"
+	"Constantes.h"
+
+1529091530 source:c:\users\tanguy\desktop\one piece battle\fonctionscombat.c
+	<SDL.h>
+	<SDL_image.h>
+	"Constantes.h"
+	"FonctionsCombat.h"
+	"Combat2.h"
+	"Personnages.h"
+
+1529088952 source:c:\users\tanguy\desktop\one piece battle\fonctionsmenu.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Constantes.h"
+	"FonctionsMenu.h"
+
+1523216940 source:c:\users\tanguy\desktop\one piece battle\main.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Combat2.h"
+	"ChoixFonds.h"
+	"ChoixPersonnages.h"
+	"Commandes.h"
+	"Evenements.h"
+	"Constantes.h"
+	"FonctionsMenu.h"
+
+1509907262 c:\users\tanguy\desktop\one piece battle\commandes.h
+
+1528831519 source:c:\users\tanguy\desktop\one piece battle\personnages.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"Constantes.h"
+	"Combat2.h"
+	"Personnages.h"
+	"StatsPersonnages.h"
+
+1528892068 c:\users\tanguy\desktop\one piece battle\statspersonnages.h
+
+1528721743 source:d:\documents\créations\one piece battle\attaquesspeciales.c
+	<SDL.h>
+	<math.h>
+	"Constantes.h"
+	"Combat2.h"
+	"Personnages.h"
+	"AttaquesSpeciales.h"
+
+1529090415 d:\documents\créations\one piece battle\constantes.h
+
+1511475666 d:\documents\créations\one piece battle\combat2.h
+
+1529089030 d:\documents\créations\one piece battle\personnages.h
+
+1528893248 d:\documents\créations\one piece battle\attaquesspeciales.h
+
+1523217642 source:d:\documents\créations\one piece battle\choixfonds.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Constantes.h"
+	"Evenements.h"
+	"ChoixFonds.h"
+	"FonctionsMenu.h"
+
+1497995130 d:\documents\créations\one piece battle\evenements.h
+
+1511472192 d:\documents\créations\one piece battle\choixfonds.h
+
+1529069741 d:\documents\créations\one piece battle\fonctionsmenu.h
+
+1529087148 source:d:\documents\créations\one piece battle\choixpersonnages.c
+	<SDL.h>
+	<SDL_image.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Constantes.h"
+	"Evenements.h"
+	"ChoixPersonnages.h"
+	"FonctionsMenu.h"
+
+1510416498 d:\documents\créations\one piece battle\choixpersonnages.h
+
+1529090738 source:d:\documents\créations\one piece battle\combat2.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"Combat2.h"
+	"Evenements.h"
+	"Constantes.h"
+	"Personnages.h"
+	"AttaquesSpeciales.h"
+	"FonctionsCombat.h"
+	"FonctionsMenu.h"
+
+1529090996 d:\documents\créations\one piece battle\fonctionscombat.h
+	"Personnages.h"
+	"Combat2.h"
+
+1510949084 source:d:\documents\créations\one piece battle\commandes.c
+	<SDL.h>
+	<SDL_image.h>
+	"Evenements.h"
+	"Constantes.h"
+	"FonctionsMenu.h"
+
+1511029870 source:d:\documents\créations\one piece battle\evenements.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Evenements.h"
+	"Constantes.h"
+
+1529091530 source:d:\documents\créations\one piece battle\fonctionscombat.c
+	<SDL.h>
+	<SDL_image.h>
+	"Constantes.h"
+	"FonctionsCombat.h"
+	"Combat2.h"
+	"Personnages.h"
+
+1529088952 source:d:\documents\créations\one piece battle\fonctionsmenu.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Constantes.h"
+	"FonctionsMenu.h"
+
+1523216940 source:d:\documents\créations\one piece battle\main.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Combat2.h"
+	"ChoixFonds.h"
+	"ChoixPersonnages.h"
+	"Commandes.h"
+	"Evenements.h"
+	"Constantes.h"
+	"FonctionsMenu.h"
+
+1509907262 d:\documents\créations\one piece battle\commandes.h
+
+1528831519 source:d:\documents\créations\one piece battle\personnages.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"Constantes.h"
+	"Combat2.h"
+	"Personnages.h"
+	"StatsPersonnages.h"
+
+1528892068 d:\documents\créations\one piece battle\statspersonnages.h
+
